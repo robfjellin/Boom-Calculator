@@ -1,0 +1,9 @@
+# ninja log v6
+1	129	1729709173388871120	BoomCalculator_autogen/timestamp	80188f7aaa503b1
+1	129	1729709173388871120	BoomCalculator_autogen/mocs_compilation.cpp	80188f7aaa503b1
+1	129	1729709173388871120	/Users/rob/Development/Qt/BoomCalculator/build/Qt_6_8_0_for_macOS-Release/BoomCalculator_autogen/timestamp	80188f7aaa503b1
+1	129	1729709173388871120	/Users/rob/Development/Qt/BoomCalculator/build/Qt_6_8_0_for_macOS-Release/BoomCalculator_autogen/mocs_compilation.cpp	80188f7aaa503b1
+130	772	1729709173398175942	CMakeFiles/BoomCalculator.dir/BoomCalculator_autogen/mocs_compilation.cpp.o	f1e76a8c63574ed2
+131	773	1729709173398343109	CMakeFiles/BoomCalculator.dir/main.cpp.o	ab27b552605415f7
+131	792	1729709173398449484	CMakeFiles/BoomCalculator.dir/mainwindow.cpp.o	af4e662bd1bd3f9e
+792	891	1729709174059474565	BoomCalculator.app/Contents/MacOS/BoomCalculator	dbfccde698ea6876
