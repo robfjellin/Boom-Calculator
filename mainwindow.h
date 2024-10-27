@@ -32,6 +32,7 @@ private:
     QFont *rocketFont;
     QVBoxLayout *layout;
     QWidget *centralWidget;
+    QComboBox *dropDown;
     int sulfurPerGP;
     int sulfurPerExplosive;
     int gpPerExplosive;
