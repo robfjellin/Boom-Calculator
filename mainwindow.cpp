@@ -19,6 +19,13 @@ MainWindow::MainWindow(QWidget *parent)
     calculate = new QPushButton("Calculate", this);
     calculate->setMaximumWidth(150);
 
+    // Drop down selection for different resources
+    dropDown = new QComboBox(this);
+    dropDown->addItem("Sulfur");
+    dropDown->addItem("Explosives");
+    dropDown->addItem("Gun Powder");
+    dropDown->setGeometry(100, 235, 150, 30);
+
     // Input amount of sulfur
     inputSulfur = new QLineEdit(this);
     inputSulfur->setPlaceholderText("Enter sulfur amount");
